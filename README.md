@@ -1,4 +1,4 @@
-# Hola, soy Jazmin 👋🏾 👩🏾‍💻
+# Hola, soy Jazmin 👋🏻 👩🏻‍💻
 
 Soy desarrolladora Full Stack y estoy en tercer año de la carrera de Ingeniería en sistemas. Empecé a estudiar programación en 2019 y, a lo largo de estos años, he hecho diferentes cursos especializados en varios lenguajes de programación.
 
