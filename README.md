@@ -2,7 +2,7 @@
 
 Soy desarrolladora Full Stack y estoy en tercer año de la carrera de Ingeniería en sistemas. Empecé a estudiar programación en 2020 y, a lo largo de estos años, he hecho diferentes cursos especializados en varios lenguajes de programación.
 
- 🌎 Actualmente vivo en Tandil, Buenos Aires, Argentina. <br>
+ 🌎 Actualmente vivo en Balcarce, Buenos Aires, Argentina. <br>
  ✉️ Puedes contactarme por mail: anajazvaz2023@gmail.com <br>
  🌱 En este momento me encuentro profundizando conocimientos en PHP y Python.<br>
  🗣️ Nivel intermedio de inglés <br>
